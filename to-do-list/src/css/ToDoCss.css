@@ -1,0 +1,43 @@
+.add_btn {
+    margin-left: 10px;
+    margin: 0 25px 0 25px !important;
+    padding: 0px 35px 0px 35px !important;
+}
+
+.list_item {
+    background-color: black;
+    color: white;
+    margin: 8px 0px 8px 0px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.arr_div {
+    padding: 0px 147px 0 147px;
+
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.group {
+    display: flex;
+}
+
+ul {
+    padding-left: 0px !important;
+}
